@@ -1,0 +1,9 @@
+Thursday, March 28 at 8:45pm: Created Visual Studios project file and began coding
+~ ~ ~ 9:03pm: Models created and unecessary files removed 
+~ ~ ~ 9:25pm: Code for model initializations finished
+~ ~ ~ 10:30pm Finished first attempt at game logic, beginning testing
+~ ~ ~ 11:08pm Finish testing with a modified version of the logic with pre-defined player moves.
+~ ~ ~ 11:25pm Finish commenting the code.
+~ ~ ~ 11:35pm (roughly) finished coding and published to github repo.
+Friday, March 29 at 5:45pm: Started work on refactoring
+

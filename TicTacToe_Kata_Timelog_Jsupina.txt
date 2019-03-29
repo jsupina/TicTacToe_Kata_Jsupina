@@ -6,4 +6,6 @@ Thursday, March 28 at 8:45pm: Created Visual Studios project file and began codi
 ~ ~ ~ 11:25pm Finish commenting the code.
 ~ ~ ~ 11:35pm (roughly) finished coding and published to github repo.
 Friday, March 29 at 5:45pm: Started work on refactoring
+~ ~ ~ 6:28pm Finished refactoring, re-testing.
+~ ~ ~ 6:39pm Finised re-testing and commiting changes to github.
 

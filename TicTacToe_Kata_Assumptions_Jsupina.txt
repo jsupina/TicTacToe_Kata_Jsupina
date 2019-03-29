@@ -1,0 +1,36 @@
+Tic-Tac-Toe Assumptions:
+
+1.) Only 2 players may participate, no more, no less.
+2.) The game board is always 9 tiles in a 3x3 pattern.
+3.) A player may only place their mark on 1 tile per turn.	
+4.) The only invalid move is when a player attempts to place their mark on an occupied tile.
+5.) Player X always has first move and Player O always has second.
+6.) There is a total of 6 win conditions, for the following table:
+
+	1 | 2 | 3
+	_________
+
+	4 | 5 | 6
+	_________
+
+	7 | 8 | 9
+
+	The possible win conditions are {1,2,3}, {1,4,7}, {3,6,9}, {7,8,9}, {1,5,9}, and {3,5,9}.
+
+7.) The game is "in progress" until a player holds the tiles for a win condition (a win) OR there 
+are no remaining tiles without a win condition being met (a tie).
+
+Program Assumptions:
+
+1.) Program will be written to track the logic of a tic tac toe game, no code will be written to
+facilitate input and output.
+2.) Since input is not facilitated by the program, the program will process moves under the assumption
+that input has been adjusted to work with the game logic. (For clarification since I'm concerned I may
+not be wording it very well, different programs may receive player move input differently, and it would
+be unreasonable to try and account for every possibility in this logic program alone. Therefore, this
+program will only work with "standardized" moves)
+3.) Game state and last move will be tracked so that it could be output by an independent module
+4.) The person who implements the logic module will be responsible for utilizing the information in the
+Game model as well as posting the Game model back as well as the players move.
+5.) The person implementing the module will handle how the game ends, the logic section will provide
+the information as to when it has ended.
